@@ -1,3 +1,5 @@
+# Branch Dashboard Using Power BI
+
 The purpose of the Branch Dashboard is to help our Corporate Team and each Branch Head have more conversations. It's an effective tool that helps us monitor and improve performance at the branch and individual levels by offering insights into new and renewed business figures.
 
 Key Metrics:
